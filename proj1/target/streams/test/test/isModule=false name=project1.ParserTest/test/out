@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mParserTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleDigit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleAddopAdd[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MultipleAddopAdd[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MultipleAddopSub[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArithOpMulop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArithOpOperatorPercedence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArithOpLeftAssociativity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArithParNegLiteral[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArithParParenthesis[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArithParLargeExp[0m[0m

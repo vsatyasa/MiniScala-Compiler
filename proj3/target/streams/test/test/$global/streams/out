@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(project3.SemanticAnalyzerTest, org.scalatest.tools.Framework$$anon$1@7c694a23, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(project3.TimedSuite, org.scalatest.tools.Framework$$anon$1@7c694a23, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(project3.InterpretTest, org.scalatest.tools.Framework$$anon$1@7c694a23, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(project3.ParserTest, org.scalatest.tools.Framework$$anon$1@7c694a23, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(project3.CompilerTest, org.scalatest.tools.Framework$$anon$1@7c694a23, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 337 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 50[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 5, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 50, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project3.SemanticAnalyzerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project3.TimedSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project3.InterpretTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project3.ParserTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	project3.CompilerTest[0m

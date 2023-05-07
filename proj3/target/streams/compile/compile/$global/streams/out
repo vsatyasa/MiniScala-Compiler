@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/u/antor/u50/vsatyasa/CS502/proj3/src/main/scala/project3/Interpreter.scala:190:21: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: (_, _)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      funcs foreach { case (_, func@Func(_, _, _)) => func.withVals(funcs) }[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

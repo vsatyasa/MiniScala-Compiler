@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mParserTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleDigit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- GenericPrecedence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ParseType[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ParseOptionalType[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- VarSyntaxSugar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- IfConditionSyntaxSugar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleFunctionParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MultipleFunctions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MultipleFunctions2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ComplexTypeFunctionParser1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ComplexTypeFunctionParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleArrayParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleArrayParser2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DoubleArrayParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DoubleArrayParser2[0m[0m

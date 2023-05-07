@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSemanticAnalyzerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- NoErrorNoWarning[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- PrimError[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- PrimError1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- PrimError2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- PrimError3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- PrimError4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- typeAssignmentMisMatchError[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DuplicateFunctionArgs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DuplicateFunctionArgs2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DuplicateFunctions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DuplicateFunctions2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArrayDecAndGet[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ArrayDecAndGet2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- IfCondition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- IfCondition2[0m[0m

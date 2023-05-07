@@ -1,0 +1,56 @@
+2023.02.13 17:22:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/bharathvemula/Purdue/cs502/proj4/.metals/lsp.trace.json or /Users/bharathvemula/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.13 17:22:09 INFO  logging to file /Users/bharathvemula/Purdue/cs502/proj4/.metals/metals.log
+2023.02.13 17:22:09 INFO  Started: Metals version 0.11.10 in workspace '/Users/bharathvemula/Purdue/cs502/proj4' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/bharathvemula/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 17:22:10 INFO  time: initialize in 1.09s
+2023.02.13 17:22:12 WARN  Build server is not auto-connectable.
+2023.02.13 17:22:12 WARN  no build tool detected in workspace '/Users/bharathvemula/Purdue/cs502/proj4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.13 17:22:12 WARN  no build target for: /Users/bharathvemula/Purdue/cs502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala
+2023.02.13 17:22:13 INFO  no build target found for /Users/bharathvemula/Purdue/cs502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.13 17:22:15 INFO  time: code lens generation in 3.21s
+2023.02.13 17:22:45 WARN  no build target for: /Users/bharathvemula/Purdue/cs502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala
+Feb 13, 2023 5:22:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.13 17:22:50 INFO  shutting down Metals
+2023.02.15 12:33:42 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/bharathvemula/Purdue/cs502/proj4/.metals/lsp.trace.json or /Users/bharathvemula/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.15 12:33:42 INFO  logging to file /Users/bharathvemula/Purdue/cs502/proj4/.metals/metals.log
+2023.02.15 12:33:42 INFO  Started: Metals version 0.11.10 in workspace '/Users/bharathvemula/Purdue/cs502/proj4' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/bharathvemula/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.15 12:33:44 INFO  time: initialize in 1.19s
+2023.02.15 12:33:44 WARN  Build server is not auto-connectable.
+2023.02.15 12:33:44 WARN  no build tool detected in workspace '/Users/bharathvemula/Purdue/cs502/proj4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.15 12:33:44 WARN  no build target for: /Users/bharathvemula/Purdue/cs502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala
+2023.02.15 12:33:49 INFO  no build target found for /Users/bharathvemula/Purdue/cs502/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.15 12:33:51 INFO  time: code lens generation in 6.31s
+Feb 15, 2023 12:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Feb 15, 2023 12:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Feb 15, 2023 12:34:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Feb 15, 2023 12:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Feb 15, 2023 12:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Feb 15, 2023 12:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Feb 15, 2023 12:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Feb 15, 2023 12:35:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Feb 15, 2023 12:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Feb 15, 2023 12:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2023.02.15 12:35:35 WARN  no build target for: /Users/bharathvemula/Purdue/cs502/proj4/compiler/src/miniscala/CPSTree.scala
+2023.02.15 12:35:35 INFO  shutting down Metals

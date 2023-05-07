@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mInterpretTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- arithm[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- arithm2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- GenericPrecedence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- VarSyntaxSugar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- IfConditionSyntaxSugar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleFunctionParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- MultipleFunctions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- SingleArrayParser[0m[0m
